@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>札幌工科専門学校 学園祭屋台</title>
+    <style>
+        body {
+            font-family: "Yu Gothic", sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f7e4d9;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        h1 {
+            font-size: 2.4em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            margin-top: 40px;
+            font-size: 1.8em;
+        }
+        h3 {
+            margin-top: 20px;
+            font-size: 1.4em;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            font-size: 1.2em;
+        }
+        ul li {
+            margin: 6px 0;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+
+        /* 写真用の枠線（後で使う） */
+        .item-photo {
+            width: 300px;
+            border: 4px solid #b5651d;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+<h1>🎉 札幌工科専門学校 学園祭屋台</h1>
+<p style="font-size: 1.3em;">
+    <strong>焼きそば & ドリンク販売 / がま口財布販売</strong><br>
+    <strong>10月3日（土） 10:00〜14:00</strong>
+</p>
+
+<div class="section">
+    <h2>🍳 屋台メニュー</h2>
+
+    <h3>■ 焼きそば（400円）</h3>
+
+    <!-- 写真は後でここに入れる -->
+
+    <h3>■ ドリンク（各150円）</h3>
+    <ul>
+        <li>Qoo りんご</li>
+        <li>コカ・コーラ</li>
+        <li>綾鷹（緑茶）</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>👜 がま口財布販売</h2>
+    <ul>
+        <li><strong>大サイズ：1500円</strong></li>
+        <li><strong>小サイズ：1000円</strong></li>
+    </ul>
+
+    <!-- 写真は後でここに入れる -->
+
+</div>
+
+<div class="section">
+    <h2>🗓️ 開催日時</h2>
+    <p style="font-size: 1.2em;">10月3日（土） 10:00〜14:00</p>
+</div>
+
+<div class="section">
+    <h2>📍 場所</h2>
+    <p style="font-size: 1.2em;">札幌工科専門学校 学園祭会場（玄関前）</p>
+</div>
+
+<div class="section">
+    <h2>🧑‍🍳 販売スタッフ</h2>
+    <ul>
+        <li><strong>調理担当：</strong>谷口 大和、長坂 花菜</li>
+        <li><strong>会計担当：</strong>柴田 遼太郎</li>
+        <li><strong>雑用・補助担当：</strong>山室 朋輝</li>
+        <li><strong>サポート：</strong>学園祭実行委員会</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>📝 注意事項</h2>
+    <ul>
+        <li>アレルギー：小麦・豚肉・大豆を含みます</li>
+    </ul>
+</div>
+
+</div>
+
+</body>
+</html>
